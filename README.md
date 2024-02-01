@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @codeyab22, an future full stack developer, inventor and CEO. 
-- 👀 I’m interested in ..articificial intelligence, science, manufacturing and writing articles 
-- 🌱 I’m currently learning anything in between-creating projects and 
-- 💞️ I’m looking to collaborate with artists and people who are in
+- 👋 Hi, I’m @codeyab22,  who aspires to be a developer, inventor, mathematician, and CEO someday. 
+- 👀 I’m interested in ...photography, fashion, science,  manufacturing, writing, and fine  arts
+- 🌱 I’m currently learning anything in between creating projects and making my portfolio
+- 💞️ I’m looking to collaborate with artists, coders and people who are interested in working with me 
 - 📫 How to reach me at codeyab@
 
 <!---
